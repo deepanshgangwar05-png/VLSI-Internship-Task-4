@@ -30,6 +30,10 @@ A Traffic Light Controller is designed using FSM concepts. The controller cycles
 | YELLOW  |  Wait    |
 ### State Transition
 RED → GREEN → YELLOW → RED
+## Simulation Waveforms
+### Traffic Light Controller
+<img width="1366" height="724" alt="Traffic lights_graph" src="https://github.com/user-attachments/assets/a4e582e6-6a1e-4ffc-994e-86f891e67016" />
+
 ## 🔍 Project 2: Sequence Detector (1011)
 ### Description
 The Sequence Detector identifies the binary pattern 1011 in a serial input stream using FSM design.
@@ -42,6 +46,10 @@ The Sequence Detector identifies the binary pattern 1011 in a serial input strea
 | S101   | Detected 101  |
 ## Detection Sequence
 1011 → Output = 1
+## Simulation Waveform
+### SEQUENCE DETECTOR 1011
+<img width="1366" height="724" alt="Traffic lights_graph" src="https://github.com/user-attachments/assets/3da49be0-2a90-4c48-b855-e2742057f02d" />
+
 ## 🧪 Verification
 Testbenches were developed to verify:
 
